@@ -9,5 +9,10 @@ logs/
 *.md
 docs/
 
+# Allow tracked documentation
+!docs/
+!docs/architecture.md
+!docs/git-workflow.md
+
 # Ignore VSCode editor files
 .vscode/
