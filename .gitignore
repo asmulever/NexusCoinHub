@@ -9,5 +9,9 @@ logs/
 *.md
 docs/
 
+# Allow tracked documentation blueprint
+!docs/
+!docs/architecture.md
+
 # Ignore VSCode editor files
 .vscode/
